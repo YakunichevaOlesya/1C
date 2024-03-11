@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="099c0d23-e75d-4fee-9888-f1e53e23ab03">
+  <producedTypes>
+    <refType typeId="83d60113-77f3-476c-baf7-464a47a839e3" valueTypeId="690dfc0e-d717-4531-abe3-2fd6a0637409"/>
+    <listType typeId="fce34923-e84b-4bd1-8b19-8b592131faeb" valueTypeId="147ef756-65b5-4a6e-830c-97843881670e"/>
+    <managerType typeId="10aa9b15-bdf6-4c8d-b7b5-caabae715994" valueTypeId="1afa79a9-47aa-4f30-a6bb-4fd3cfd75c8c"/>
+  </producedTypes>
+  <name>Роли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Роли</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="d088b76b-5265-4283-be0a-0e3fb2bcc861">
+    <name>Администратор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Администратор</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6fa04e16-73c6-4758-8331-caa2735572da">
+    <name>Пользователь</name>
+    <synonym>
+      <key>ru</key>
+      <value>Пользователь</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
